@@ -1,3 +1,1 @@
-# Go
-# Go
-# Go
+# Golang solution for leetcode
