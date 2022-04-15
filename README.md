@@ -1,1 +1,1 @@
-# Golang solution for leetcode
+# Basic Programming with Golang
