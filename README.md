@@ -1,10 +1,10 @@
 # Programming with Golang
 # 1. Basic Types in Go
-# # bool
-# # byte
-# # complex
-# # float
-# # int
-# # rune
-# # unit
-# # unitptr
+# a. bool
+# b. byte
+# b. complex
+# d float
+# e. int
+# f. rune
+# g. unit
+# h. unitptr
