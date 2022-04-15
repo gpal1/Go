@@ -7,7 +7,7 @@
  5. byte  -> uint8 (just numbers)
  6. string  -> ASCII (1B) , UTF8(1-4B) ( just sequence of bytes)
  7. complex -> complex64,  complex128
- 8. uintptr -> unsafe.Pointer to a unintptr
+ 8. uintptr -> (Converting unsafe.Pointer to a unintptr gives int)
  
 
  
