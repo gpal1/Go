@@ -5,7 +5,7 @@
  3. unit -> uint8/byte, uint16, uint32, uint64, uintptr
  4. float  -> float32,  float64
  5. byte  -> uint8 (just numbers)
- 6. string  -> ASCII (1B) , UTF8(1-4B) (sequence of bytes)
+ 6. string  -> ASCII (1B) , UTF8(1-4B) ( just sequence of bytes)
  7. complex -> complex64,  complex128
  
 
